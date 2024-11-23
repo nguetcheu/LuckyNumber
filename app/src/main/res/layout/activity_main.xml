@@ -27,7 +27,7 @@
         android:layout_marginTop="198dp"
         android:ems="10"
         android:inputType="text"
-        android:text="Please enter your name"
+        android:hint="Please enter your name"
         android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
