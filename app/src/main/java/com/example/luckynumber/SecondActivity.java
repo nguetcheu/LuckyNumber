@@ -37,7 +37,7 @@ public class SecondActivity extends AppCompatActivity {
 
         // Receiving data from the Main activity
         Intent i = getIntent();
-        String userName = i.getStringExtra("userName");
+        String userName = i.getStringExtra("name");
 
         // Generating Random numbers;
         int random_num = generateRandomNumber();
